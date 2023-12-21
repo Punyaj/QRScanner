@@ -419,7 +419,7 @@ section{
 
   .quotes{
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1.7rem;
     letter-spacing: 0.05rem;
     color: #696968;
     width: 80%;
@@ -804,7 +804,7 @@ margin: auto;}
     padding: 1.5%;
     color: #4a2d0a;
     font-weight: 600;
-    font-size: 35px;
+    font-size: 1.5rem;
 }
 
 .contact-middle p{
@@ -879,6 +879,7 @@ margin: auto;}
     section{
         padding:0 5% 8rem;
     }
+  
 }
 @media (max-width:3000px){
     .dropdown-content .dropdownaa{
@@ -971,7 +972,7 @@ margin: auto;}
 }
 
 @media (max-width:768px){
-
+   
     .home{
         background-position: left;
         justify-content: center;
@@ -1019,7 +1020,7 @@ font-size: 2.5rem;
 }
 
 @media (max-width:450px){
-
+ 
     html{
         font-size: 50%;
     }
